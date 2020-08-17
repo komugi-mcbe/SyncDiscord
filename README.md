@@ -1,3 +1,3 @@
 # SyncDiscord
 Discordと鯖で会話を可能にします
-#別途DiscordBotとMySQL鯖が必要です
+別途DiscordBotとMySQL鯖が必要です
